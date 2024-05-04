@@ -1,0 +1,11 @@
+[
+    {
+        "name": "speech",
+        "subscription_key": "d9ad3169b5ff47cd9a622e68cba143a0",
+        "region": "westus2",
+        "endpoint_id": "https://westus2.api.cognitive.microsoft.com/",
+        "text_analytics_key": "e29610eec37a4fa4afa207d20dfea02",
+        "text_analytics_endpoint": "https://vinaya-language-service.cognitiveservices.azure.com/",
+        "web_port": "8080"
+    }
+]    
